@@ -64,6 +64,7 @@ const Topics = ({ match }) => (
 const BasicExample = () => (
   <Router>
     <div>
+      V1.2
       <ul>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/about">About</Link></li>
